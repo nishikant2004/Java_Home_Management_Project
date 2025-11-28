@@ -56,6 +56,7 @@ src/
 ├── MainClass/
       ├── MainApp.java
 
+
 🧩 Architecture Summary
 ✔ 1. device_interfaces/
 
